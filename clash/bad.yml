@@ -1,0 +1,12 @@
+# classical
+payload:
+  # =================Bad=================
+  - DOMAIN,hm.baidu.com
+  - DOMAIN,hmma.baidu.com
+  - DOMAIN-SUFFIX,360.cn
+  - DOMAIN-SUFFIX,hao123.com
+  - DOMAIN-SUFFIX,114so.cn
+  - DOMAIN-SUFFIX,189so.cn
+  - DOMAIN-SUFFIX,139site.com
+
+
