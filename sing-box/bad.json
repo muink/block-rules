@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "hm.baidu.com",
+        "hmma.baidu.com"
+      ],
+      "domain_suffix": [
+        ".360.cn",
+        ".hao123.com",
+        ".114so.cn",
+        ".189so.cn",
+        ".139site.com"
+      ]
+    }
+  ]
+}
