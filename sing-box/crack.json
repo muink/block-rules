@@ -53,7 +53,17 @@
         "activate.wip4.adobe.com",
         "wip2.adobe.com",
         "3dns-4.adobe.com",
-        "na2m-pr.licenses.adobe.com"
+        "na2m-pr.licenses.adobe.com",
+        "__CorelDRAW__",
+        "mc.corel.com",
+        "apps.corel.com",
+        "origin-mc.corel.com",
+        "iws.corel.com",
+        "ipm.corel.com",
+        "dev1.ipm.corel.public.corel.net",
+        "www.corelstore.com",
+        "sws.corel.com",
+        "redirect.corel.com"
       ],
       "domain_suffix": [
         ".diskgenius.cn",

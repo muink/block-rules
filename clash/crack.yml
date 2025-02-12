@@ -1,13 +1,16 @@
 # classical
 payload:
-  # ================Block================
-  - DOMAIN,licensing.ultraedit.com
-  - DOMAIN,licensing2.ultraedit.com
+  # ===============ACD See===============
   - DOMAIN,acdid.acdsystems.com
+  - DOMAIN,acdidserver.acdsee.cn
+  # ==============DiskGeniu==============
   - DOMAIN-SUFFIX,diskgenius.cn
   - DOMAIN-SUFFIX,diskgenius.com
   - DOMAIN-SUFFIX,eassos.cn
   - DOMAIN-SUFFIX,eassos.com
+  # ==============UltraEdit==============
+  - DOMAIN,licensing.ultraedit.com
+  - DOMAIN,licensing2.ultraedit.com
   # ================Adobe================
   - DOMAIN,tss-geotrust-crl.thawte.com
   - DOMAIN,wwis-dubc1-vip60.adobe.com
@@ -56,5 +59,15 @@ payload:
   - DOMAIN,wip2.adobe.com
   - DOMAIN,3dns-4.adobe.com
   - DOMAIN,na2m-pr.licenses.adobe.com
+  # ==============CorelDRAW==============
+  - DOMAIN,mc.corel.com
+  - DOMAIN,apps.corel.com
+  - DOMAIN,origin-mc.corel.com
+  - DOMAIN,iws.corel.com
+  - DOMAIN,ipm.corel.com
+  - DOMAIN,dev1.ipm.corel.public.corel.net
+  - DOMAIN,www.corelstore.com
+  - DOMAIN,sws.corel.com
+  - DOMAIN,redirect.corel.com
 
 
