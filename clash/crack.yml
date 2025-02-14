@@ -65,6 +65,7 @@ payload:
   - DOMAIN,origin-mc.corel.com
   - DOMAIN,iws.corel.com
   - DOMAIN,ipm.corel.com
+  - DOMAIN,ipp.corel.com
   - DOMAIN,dev1.ipm.corel.public.corel.net
   - DOMAIN,www.corelstore.com
   - DOMAIN,sws.corel.com
