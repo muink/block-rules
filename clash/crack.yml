@@ -70,5 +70,5 @@ payload:
   - DOMAIN,www.corelstore.com
   - DOMAIN,sws.corel.com
   - DOMAIN,redirect.corel.com
-
-
+  # =============FontCreator=============
+  - DOMAIN,www.high-logic.com
