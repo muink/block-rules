@@ -63,6 +63,12 @@ payload:
   - DOMAIN,prod.adobegenuine.com
   - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN-SUFFIX,hstatic.io
+  - DOMAIN,ic.adobe.io
+  - DOMAIN,fp.adobestats.io
+  - DOMAIN,lcs-robs.adobe.io
+  - DOMAIN,lcs-ulecs.adobe.io
+  - DOMAIN,hbc.adobe.io
+  - DOMAIN,gcos.adobe.io
   # ==============CorelDRAW==============
   - DOMAIN,mc.corel.com
   - DOMAIN,apps.corel.com
