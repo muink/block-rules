@@ -61,8 +61,8 @@ payload:
   - DOMAIN,na2m-pr.licenses.adobe.com
   - DOMAIN,crs.cr.adobe.com
   - DOMAIN,prod.adobegenuine.com
-  - DOMAIN-SUFFIX,.adobestats.io
-  - DOMAIN-SUFFIX,.hstatic.io
+  - DOMAIN-SUFFIX,adobestats.io
+  - DOMAIN-SUFFIX,hstatic.io
   # ==============CorelDRAW==============
   - DOMAIN,mc.corel.com
   - DOMAIN,apps.corel.com
